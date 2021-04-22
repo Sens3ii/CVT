@@ -1,2 +1,2 @@
 # CVT
-Computer Vision Tech.
+Computer Vision Tech. 2021 KBTU
